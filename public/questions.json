@@ -1,0 +1,87 @@
+[
+  {
+    "layer": 1,
+    "en": "When do you usually wake up in the morning?",
+    "he": "מתי אתה קם בבוקר בדרך כלל?"
+  },
+  {
+    "layer": 1,
+    "en": "Do you usually exercise? If so — when and how?",
+    "he": "אתה עושה ספורט? אם כן — מתי ואיך?"
+  },
+  {
+    "layer": 1,
+    "en": "What are your hobbies and interests?",
+    "he": "מה התחביבים והתחומי עניין שלך?"
+  },
+  {
+    "layer": 1,
+    "en": "What do you do for work?",
+    "he": "במה אתה עוסק?"
+  },
+  {
+    "layer": 1,
+    "en": "When is the best time for me to reach out to you during the day?",
+    "he": "מה הזמן הכי טוב בשבילי לדבר איתך במהלך היום?"
+  },
+  {
+    "layer": 2,
+    "en": "How would you describe your financial situation?",
+    "he": "איך היית מתאר את המצב הכלכלי שלך?"
+  },
+  {
+    "layer": 2,
+    "en": "Do you have investments, savings, or debts?",
+    "he": "יש לך השקעות, חסכונות או חובות?"
+  },
+  {
+    "layer": 2,
+    "en": "Do you want help managing your budget or growing your wealth?",
+    "he": "היית רוצה עזרה בניהול תקציב או הגדלת העושר שלך?"
+  },
+  {
+    "layer": 3,
+    "en": "How do you usually feel after a hard day?",
+    "he": "איך אתה מרגיש בדרך כלל אחרי יום קשה?"
+  },
+  {
+    "layer": 3,
+    "en": "Do you struggle with loneliness, anxiety, or stress?",
+    "he": "אתה מתמודד עם בדידות, חרדה או לחץ?"
+  },
+  {
+    "layer": 3,
+    "en": "Do you have someone close you can talk to about everything?",
+    "he": "יש לך מישהו קרוב שאתה יכול לדבר איתו על הכל?"
+  },
+  {
+    "layer": 4,
+    "en": "If you could change one thing in your life right now — what would it be?",
+    "he": "אם היית יכול לשנות דבר אחד בחיים שלך עכשיו — מה זה היה?"
+  },
+  {
+    "layer": 4,
+    "en": "What is your biggest dream?",
+    "he": "מה החלום הכי גדול שלך?"
+  },
+  {
+    "layer": 4,
+    "en": "What is your secret fantasy?",
+    "he": "מה הפנטזיה הסודית שלך?"
+  },
+  {
+    "layer": 5,
+    "en": "Do you have any health conditions I should be aware of?",
+    "he": "יש לך בעיות בריאות שכדאי שאדע עליהן?"
+  },
+  {
+    "layer": 5,
+    "en": "Do you sleep well?",
+    "he": "אתה ישן טוב?"
+  },
+  {
+    "layer": 5,
+    "en": "Do you monitor your diet?",
+    "he": "אתה מקפיד על תזונה?"
+  }
+]
