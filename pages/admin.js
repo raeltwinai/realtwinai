@@ -16,7 +16,9 @@ export default function Admin() {
       const { data, error } = await supabase
         .from('users')
         .select('*');
+
       if (!error) setUsers(data);
+      else console.error(error);
     };
 
     fetchUsers();
